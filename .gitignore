@@ -3,3 +3,5 @@
 *.png
 *.gif
 /anki-to-ulangi
+/pytorch lightning tests/lightning_logs
+/pytorch lightning tests/MNIST
